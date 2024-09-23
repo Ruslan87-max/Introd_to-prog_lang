@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\F_\\Education\\GeekBrains\\Курсы\\Full-Stack-Developer_2024-2025\\Разработчик\\1четверт\\Основной_блок\\Лекции\\Introd_to_prog_lang\\Lesson01\\Lesson01.csproj",
+      "projectUniqueName": "F:\\F_\\Education\\GeekBrains\\Курсы\\Full-Stack-Developer_2024-2025\\Разработчик\\1четверт\\Основной_блок\\Лекции\\Introd_to_prog_lang\\Lesson01\\Task1\\Lesson01.csproj",
       "projectName": "Lesson01",
-      "projectPath": "F:\\F_\\Education\\GeekBrains\\Курсы\\Full-Stack-Developer_2024-2025\\Разработчик\\1четверт\\Основной_блок\\Лекции\\Introd_to_prog_lang\\Lesson01\\Lesson01.csproj",
+      "projectPath": "F:\\F_\\Education\\GeekBrains\\Курсы\\Full-Stack-Developer_2024-2025\\Разработчик\\1четверт\\Основной_блок\\Лекции\\Introd_to_prog_lang\\Lesson01\\Task1\\Lesson01.csproj",
       "packagesPath": "C:\\Users\\Руслан87\\.nuget\\packages\\",
-      "outputPath": "F:\\F_\\Education\\GeekBrains\\Курсы\\Full-Stack-Developer_2024-2025\\Разработчик\\1четверт\\Основной_блок\\Лекции\\Introd_to_prog_lang\\Lesson01\\obj\\",
+      "outputPath": "F:\\F_\\Education\\GeekBrains\\Курсы\\Full-Stack-Developer_2024-2025\\Разработчик\\1четверт\\Основной_блок\\Лекции\\Introd_to_prog_lang\\Lesson01\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Руслан87\\AppData\\Roaming\\NuGet\\NuGet.Config"
