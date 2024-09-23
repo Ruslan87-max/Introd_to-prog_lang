@@ -1,0 +1,14 @@
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\bin\Debug\net7.0\Task2.exe
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\bin\Debug\net7.0\Task2.deps.json
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\bin\Debug\net7.0\Task2.dll
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\bin\Debug\net7.0\Task2.pdb
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\obj\Debug\net7.0\Task2.dll
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\obj\Debug\net7.0\refint\Task2.dll
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\obj\Debug\net7.0\Task2.pdb
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+F:\F_\Education\GeekBrains\Курсы\Full-Stack-Developer_2024-2025\Разработчик\1четверт\Основной_блок\Лекции\Introd_to_prog_lang\Lesson01\Task2\obj\Debug\net7.0\ref\Task2.dll
